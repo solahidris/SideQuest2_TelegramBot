@@ -45,3 +45,4 @@ console.log("Loaded Token:", token);
 console.log("Bot is running...");
 
 // node bot.js
+// testing commit git
